@@ -1,8 +1,30 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Danny Markdown编辑器</title>
+        <item>
+            <title>1.69</title>
+            <pubDate>Thu, 23 Jul 2026 14:28:18 +0800</pubDate>
+            <link>https://github.com/dannydyz823-ship-it/danny-markdown-updates</link>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>1.69</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="uQlBeYDvZkGXoS8KqccKUhrxz3duqyp6Vj2ZXnPlpObtWTTQqAaT8krYLXBY9eyBAjoIOaI0Q1e1OepLH4ZiBA==" sparkle:length="899">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-v1.69.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.69/DannyMarkdown-v1.69.zip" length="1740938" type="application/octet-stream" sparkle:edSignature="aS4HajfPjcnIBjH5tXK9y/gw8SICjIfMHBNn+9tVUmt6Q65Ek26BNe9VoNwnwt20TZHZIPIa6OyAQUuvw/wrDA=="/>
+        </item>
+        <item>
+            <title>1.68</title>
+            <pubDate>Thu, 23 Jul 2026 00:55:47 +0800</pubDate>
+            <link>https://github.com/dannydyz823-ship-it/danny-markdown-updates</link>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>1.68</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="iX6sjhNxCiSrzbMJ5Vrg4s8zzIHP+wvPki42MYRJEQyTNg28sI0wU9xAV6HAWiMbgvxW5M4nqj/vKLr0C+TqCg==" sparkle:length="634">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-v1.68.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.68/DannyMarkdown-v1.68.zip" length="1739363" type="application/octet-stream" sparkle:edSignature="96Utu3arRYFirEneM/6bWEMy77TRZVQmt3W28+5M7tztPgjeCXngf5f7ZW9HsCTtIlwYh6ccrQuxE3IdBKHIAg=="/>
+        </item>
         <item>
             <title>1.67</title>
             <pubDate>Thu, 23 Jul 2026 00:29:30 +0800</pubDate>
@@ -11,10 +33,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>1.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink sparkle:edSignature="dUFSS7OxxisGgy5UwZX9eHoi8jHGUocFM7ZaLVA3xKiqmQn2zIhmP3zDa0+x0WYe7h/ou7WTmyN0pyvKLSjRBw==" sparkle:length="376">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-v1.67.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.67/DannyMarkdown-v1.67.zip" length="1713733" type="application/octet-stream" sparkle:edSignature="VmvGAo37To3byD+wqqy6b9sTArYLIds0r5uN/ytOHElVIuuonT/Y6L26CQfU8iyKXzsqqcgWkxqMOoO/pOcaCA=="></enclosure>
+            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.67/DannyMarkdown-v1.67.zip" length="1713733" type="application/octet-stream" sparkle:edSignature="VmvGAo37To3byD+wqqy6b9sTArYLIds0r5uN/ytOHElVIuuonT/Y6L26CQfU8iyKXzsqqcgWkxqMOoO/pOcaCA=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: cG/XjlgxbCHh9/YDeKGFnt5uF5EZItQkEd8oyFrpNudy3LWp55tQhU4y/DkOcY8ret/eClaGPl4QgyuGQxe7Cg==
-length: 1488
+</rss>
+<!-- sparkle-signatures:
+edSignature: D+rVtZR6WKNSMHvyZU+lNKEYe4SYfu7bSaFIX1xrHSBiJ+kPmNmCUwQ3WYv/CzcUXdRR0cWuDslcrVtjp9KdAg==
+length: 3546
 -->
