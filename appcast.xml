@@ -12,8 +12,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>139</sparkle:version>
             <sparkle:shortVersionString>1.99</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="yGf05yMMWK3legfu15jHPCJ5ZxExOl59LrFDJ0+4XU3qzY3HcCgzi5XT7/goDy82gwxPdC4XKKmfRe5VUcmnBw==" sparkle:length="1303">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-v1.99.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.99/DannyMarkdown-v1.99.zip" length="1875384" type="application/octet-stream" sparkle:edSignature="OiDcqsy8ZTmUl8DUwzlyDIolr+budmJEEOJuhzVxneFBhH6wxnXrV96Pq7acrz6lh2uT2az4fGoPATlS+3UkBA=="/>
+            <sparkle:releaseNotesLink sparkle:edSignature="yGf05yMMWK3legfu15jHPCJ5ZxExOl59LrFDJ0+4XU3qzY3HcCgzi5XT7/goDy82gwxPdC4XKKmfRe5VUcmnBw==" sparkle:length="1303">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-AppAutoUpdate-Only-v1.99.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.99/DannyMarkdown-AppAutoUpdate-Only-v1.99.zip" length="1875384" type="application/octet-stream" sparkle:edSignature="OiDcqsy8ZTmUl8DUwzlyDIolr+budmJEEOJuhzVxneFBhH6wxnXrV96Pq7acrz6lh2uT2az4fGoPATlS+3UkBA=="/>
         </item>
         <item>
             <title>1.71</title>
@@ -68,6 +68,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: kxuNYQ8L9GY8WdkptJS9C3bCXKN218zwVNEFxw3n6+QjEIc32Pn47PfXcTqoSTdqmBhXNaQD6MgRfwQJOgTBCw==
-length: 6646
+edSignature: 5C4oeLorcy3T6Ygz8hknMWv5Ct//U7dAMqt+/gNMalkSsZ62yWiIocuHvIEKfmUOqOifTJ7FwM0tRWqq8fGkAg==
+length: 6684
 -->
