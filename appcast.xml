@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Danny Markdown编辑器</title>
         <item>
+            <title>2.16</title>
+            <pubDate>Sun, 06 Sep 2026 01:22:13 +0800</pubDate>
+            <link>https://github.com/dannydyz823-ship-it/danny-markdown-updates</link>
+            <sparkle:version>216</sparkle:version>
+            <sparkle:shortVersionString>2.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="bJ5LNSs4TTYcpnEmJ+719FektNn/B9YWkqb2ZFERYUtjge0r/1yZgPM/pZ3M+N5VVDNrMNidI4YtZvuK8bW2Dg==" sparkle:length="317">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-AppAutoUpdate-Only-v2.16.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v2.16/DannyMarkdown-AppAutoUpdate-Only-v2.16.zip" length="2033149" type="application/octet-stream" sparkle:edSignature="UTIUAfYgiDGaidSeI0B8taRMEHyqTUMHoBnLuIT8x6fgGQu94SLN7GqzOcrxEoW31ll8O0Yf5WCI/I6ZO39uCQ=="/>
+        </item>
+        <item>
             <title>2.13</title>
             <pubDate>Wed, 02 Sep 2026 23:53:29 +0800</pubDate>
             <link>https://github.com/dannydyz823-ship-it/danny-markdown-updates</link>
@@ -95,19 +105,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:releaseNotesLink sparkle:edSignature="uQlBeYDvZkGXoS8KqccKUhrxz3duqyp6Vj2ZXnPlpObtWTTQqAaT8krYLXBY9eyBAjoIOaI0Q1e1OepLH4ZiBA==" sparkle:length="899">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-v1.69.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.69/DannyMarkdown-v1.69.zip" length="1740938" type="application/octet-stream" sparkle:edSignature="aS4HajfPjcnIBjH5tXK9y/gw8SICjIfMHBNn+9tVUmt6Q65Ek26BNe9VoNwnwt20TZHZIPIa6OyAQUuvw/wrDA=="/>
         </item>
-        <item>
-            <title>1.68</title>
-            <pubDate>Thu, 23 Jul 2026 00:55:47 +0800</pubDate>
-            <link>https://github.com/dannydyz823-ship-it/danny-markdown-updates</link>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>1.68</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="iX6sjhNxCiSrzbMJ5Vrg4s8zzIHP+wvPki42MYRJEQyTNg28sI0wU9xAV6HAWiMbgvxW5M4nqj/vKLr0C+TqCg==" sparkle:length="634">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-v1.68.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v1.68/DannyMarkdown-v1.68.zip" length="1739363" type="application/octet-stream" sparkle:edSignature="96Utu3arRYFirEneM/6bWEMy77TRZVQmt3W28+5M7tztPgjeCXngf5f7ZW9HsCTtIlwYh6ccrQuxE3IdBKHIAg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: nSuD4mGbOLwlYKBfEy63a040e4qnV1JniDOkbmnKU2rxhZEhOv+BTSjpkKscG9fgnQ/zKU0JcC34tYhsjx+5Bw==
-length: 11006
+edSignature: mejfR7H26lxrXfGzhl/ApXP2gobHzEoI1kXSMJ9vZ+lLssBxA6TtVibLqGqo5d8xzYO9xtJ5OUmIAR+TC786DA==
+length: 11044
 -->
