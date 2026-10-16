@@ -13,7 +13,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>2.62</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink sparkle:edSignature="olZcxR3PYuQgrLtEkPnlJzz9WWGtim3HnkRAww9e2KUZKYvHKGhTfkR32jiWwO0DkKAghpbLm4PnFVRbGXN9Aw==" sparkle:length="443">https://raw.githubusercontent.com/dannydyz823-ship-it/danny-markdown-updates/main/release-notes/DannyMarkdown-AppAutoUpdate-Only-v2.62.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v2.62/DannyMarkdown-AppAutoUpdate-Only-v2.62.zip" length="2205373" type="application/octet-stream" sparkle:edSignature="a9s8T99QIwNDa1tBWfdTxUXHw66Uje5ACGdjrBWdHiOjocLc27tOGrRQ6lwd0XngbELRo8OEK9t9jNw5wn9sCQ=="/>
+            <enclosure url="https://github.com/dannydyz823-ship-it/danny-markdown-updates/releases/download/v2.62/DannyMarkdown-AutoUpdate-Only-Do-Not-Download-v2.62.zip" length="2205373" type="application/octet-stream" sparkle:edSignature="a9s8T99QIwNDa1tBWfdTxUXHw66Uje5ACGdjrBWdHiOjocLc27tOGrRQ6lwd0XngbELRo8OEK9t9jNw5wn9sCQ=="/>
         </item>
         <item>
             <title>2.42</title>
@@ -108,6 +108,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: zg/rqJL1xF8bmYTMLeh6fRi+Qs8LUZ8A1g908cmB4EeZ4z2SVEI1lpPp0dZHJJwoXi2jtCKskZg56ivaMseADg==
-length: 11158
+edSignature: NMPfjoAUFqjD2yQfW496LLtDD30syB4Oo/Fcty8Ae5wo1rwQ1JmgRNDC6ClsgNrGqEIrLgesrpmP6R2Uw5U6CQ==
+length: 11171
 -->
